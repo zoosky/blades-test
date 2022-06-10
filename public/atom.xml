@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title>govnews</title>
+    <link rel="related" href="" />
+    <id></id>
+    
+    <author>
+        <name>akapaka</name>
+        
+        
+    </author>
+    
+    <subtitle></subtitle>
+    <generator>blades</generator>
+    <updated>2022-06-10T07:41:58Z</updated>
+
+
+    <entry>
+        <title></title>
+        <link rel="alternate" href="/" />
+        <id></id>
+        <summary></summary>
+        <content></content>
+        
+    </entry>
+    
+
+</feed>
