@@ -1,0 +1,1 @@
+Run `blades build` and `web-server.sh`
