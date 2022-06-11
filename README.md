@@ -1,1 +1,3 @@
-Run `blades build` and `web-server.sh`
+Run `blades all` and `web-server.sh`
+
+Otherwise: `caretaker watch`
